@@ -51,10 +51,14 @@ F. Eckermann, M. Kahlert, C. Wietfeld, ["Performance Analysis of C-V2X Mode 4 Co
     }
     
     
-# Wenjian's Modification
+# Wenjian's Modification----Version 1
 1.pf-ff-mac-scheduler.cc has one line that should be commented to avoid compiling error.
 
 2.I have uploaded my code: v2x_platoon_communication in scratch folder.
 
 3.I have met one problem in running my code.
+![image](https://user-images.githubusercontent.com/47664311/132152388-b3f80727-fc70-4ceb-8b61-5739f08e9f86.png)
 
+This problem may result from vector size and I will try to fix it.
+
+My next step is modifying this code and upload version 2.
