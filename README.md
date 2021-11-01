@@ -62,3 +62,9 @@ F. Eckermann, M. Kahlert, C. Wietfeld, ["Performance Analysis of C-V2X Mode 4 Co
 This problem may result from vector size and I will try to fix it.
 
 My next step is modifying this code and upload version 2.
+
+
+
+# Wenjian's Modification----Version 2
+This modification is for my power control scheme simulation——it is called "power_control_v1.cc" and I have already uploaded it.
+Still has some problem!
